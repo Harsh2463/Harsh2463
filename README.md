@@ -1,4 +1,9 @@
-About
+# 👨‍💻 About Me  
+I’m a Web Designer & Frontend Developer passionate about creating clean, responsive, and user-friendly websites.  
+Currently, I’m exploring React in detail to build more dynamic and modern web applications.  
+
+---
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/harshmishra2463) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_hr2463) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-mishra-b64393361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh.m2463@gmail.com) 
 
