@@ -13,7 +13,8 @@ I specialize in building responsive, user-focused designs that combine clean cod
 - **PHP & MySQL:** Implemented CRUD operations for smooth data management.  
 - **UI/UX (Figma, XD):** Designed wireframes & prototypes for apps with focus on UX.  
 - **Graphics (Photoshop, Illustrator, CorelDRAW):** Designed flyers, banners & marketing creatives.  
-- **Live Projects:** Worked on *The Refrigeration House* & *Scloser* e-commerce sites as a web designer in a fast-paced team.  
+- **Live Projects:** Worked on [The Refrigeration House](https://therefrigerationhouse.com/admin) & [Scloser](https://scloser.com) e-commerce sites as a web designer in a fast-paced team.  
+
 
 ---
 
