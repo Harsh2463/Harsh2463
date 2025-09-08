@@ -1,6 +1,19 @@
 # 👨‍💻 About Me  
-I’m a Web Designer & Frontend Developer passionate about creating clean, responsive, and user-friendly websites.  
-Currently, I’m exploring React in detail to build more dynamic and modern web applications.  
+## Harsh Mishra  
+
+Creative Web Designer with strong frontend expertise and solid backend knowledge.  
+I specialize in building responsive, user-focused designs that combine clean code with seamless functionality.  
+
+---
+
+## 💼 Experience  
+
+- **Frontend (HTML, CSS, JS):** Built responsive websites with clean, user-friendly designs.  
+- **React:** Created a YouTube clone with navigation & category filtering.  
+- **PHP & MySQL:** Implemented CRUD operations for smooth data management.  
+- **UI/UX (Figma, XD):** Designed wireframes & prototypes for apps with focus on UX.  
+- **Graphics (Photoshop, Illustrator, CorelDRAW):** Designed flyers, banners & marketing creatives.  
+- **Live Projects:** Worked on *The Refrigeration House* & *Scloser* e-commerce sites as a web designer in a fast-paced team.  
 
 ---
 
@@ -19,7 +32,6 @@ Currently, I’m exploring React in detail to build more dynamic and modern web 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsh2463&icon=0&color=0)](https://visitcount.itsvg.in)
