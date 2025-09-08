@@ -1,6 +1,6 @@
 # 👨‍💻 About Me  
 
-#👋 Hi, I’m  **Harsh Mishra**  
+# 👋 Hi, I’m **Harsh Mishra**  
 A **Creative Web Designer** with strong frontend expertise and solid backend knowledge.  
 I specialize in building responsive, user-focused designs that combine clean code with seamless functionality.  
 
